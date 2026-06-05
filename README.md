@@ -6,4 +6,3 @@ Created **Rubiks-Cube-Solver** with efficient solving in fewer steps
 - Example: `main.cpp` shows how to run a solver  
 - Build: use CMake to compile the project  
 - Run: run the built executable to test the solver
-Link : https://algo-search-engine-tf-idf.onrender.com/ls
